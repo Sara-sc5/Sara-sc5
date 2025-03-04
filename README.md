@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Sara! 👩🏻‍💻
 
-<!--
-**J-ZoneSec/J-ZoneSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Ethical hacker & cybersecurity enthusiast, always learning and growing.
+📚 Currently preparing for the CEH certification.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Languages: Python | Bash | PowerShell
+🖥️ Operating Systems: Linux | Windows
+🔐 Security Tools: Metasploit | Burp Suite | Wireshark and more...
+🌐 Networking: Protocols | VPNs | Firewalls | Network Security | Traffic Analysis
+
+### 🔗 Find me on 
+[LinkedIn](https://www.linkedin.com/in/sara-carrano5)
+
+
+
