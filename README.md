@@ -1,7 +1,7 @@
 ### Hi, I'm Sara! 👩🏻‍💻
 
 🌱 Ethical hacker & cybersecurity enthusiast, always learning and growing.
-📚 Currently preparing for the CEH certification.
+🐍 Python lover 
 
 ### 🚀 Tech Stack
 
