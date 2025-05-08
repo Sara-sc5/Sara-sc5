@@ -34,7 +34,7 @@ def check_integrity(file_path):
     elif hashes[file_path] == calculate_hash(file_path):
         print(f"[OK] Il file è integro.")
     else:
-        print(f"[ALERTA] Il file è stato modificato!")
+        print(f"[ATTENZIONE] Il file è stato modificato!")
 
 if __name__ == "__main__":
     scelta = input("\n1. Salva hash\n2. Controlla integrità\nScelta: ")
